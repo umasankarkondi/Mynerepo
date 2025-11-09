@@ -15,15 +15,14 @@ public class HelloWorld {
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
     }
-}
 
-//dev1 code added but not puules//
+}
+<<<<<<< Updated :
 
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-p {
+<styl {
   text-align: center;
   color: red;
 } 
@@ -37,3 +36,14 @@ p {
 
 </body>
 </html>
+=======
+///data added without pull code//
+///
+///[200~// Your First Program
+///
+///class HelloWorld {
+///    public static void main(String[] args) {
+///            System.out.println("Hello, World!"); 
+///                }
+///                }
+>>>>>>> Stashed changes
